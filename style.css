@@ -82,7 +82,6 @@ button.active{
 }
 .purchase{
     margin: 2rem 0;
-    transition: all 0.75s ease-in-out;
 }
 .purchase button{
     width: 100%;
@@ -93,4 +92,5 @@ button.active{
     color: white;
     border-radius: 30px;
     font-weight: bolder;
+    transition: all 0.75s ease-in-out;
 }
